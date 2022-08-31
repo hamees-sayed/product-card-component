@@ -73,8 +73,6 @@ I'll probably next work to make this site responsive
 
 - [W3 Schools](https://www.w3schools.com) 
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
 - Frontend Mentor - [@hamees-sayed](https://www.frontendmentor.io/profile/hamees-sayed)
