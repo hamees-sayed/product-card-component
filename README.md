@@ -61,8 +61,6 @@ body {
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 ### Continued development
 
 I'll probably next work to make this site responsive
