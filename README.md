@@ -20,8 +20,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/hamees-sayed/product-card-component)
-- Live Site URL: [Add live site URL here](https://product-card-2510.netlify.app/)
+- Solution URL: [Solution](https://github.com/hamees-sayed/product-card-component)
+- Live Site URL: [Live site URL](https://product-card-2510.netlify.app/)
 
 ### Built with
 
