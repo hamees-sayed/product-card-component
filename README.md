@@ -67,7 +67,6 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 I'll probably next work to make this site responsive
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
