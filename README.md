@@ -35,8 +35,6 @@ Users should be able to:
 - Solution URL: [Add solution URL here](https://github.com/hamees-sayed/product-card-component)
 - Live Site URL: [Add live site URL here](https://product-card-2510.netlify.app/)
 
-## My process
-
 ### Built with
 
 - HTML5
